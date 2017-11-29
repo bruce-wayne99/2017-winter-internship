@@ -12,11 +12,11 @@
 
 * Work Log of Subramanyam
 ** Week 1 [2017-11-27 Mon] to [2017-12-03 Sun]
-   + [2017-11-27 Mon]
+   [2017-11-27 Mon]
    - Installed Virtual Labs College Cloud Edition on our laptops.
    - Went through the installation manual of Virtual Labs College Cloud Edition.
    - Made an org file report on the installation manual.
-   + [2017-11-28 Tue]
+   [2017-11-28 Tue]
    - Explored the 'onboarding', 'literate-tools' repos of vlead in github.
    - Explored Process management on dev.vlabs.ac.in.
    - Explored ds-lab on gitlab.
